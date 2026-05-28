@@ -1,0 +1,44 @@
+# Build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Worker-internal files (must NEVER be pushed)
+SPEC.txt
+TASK.txt
+pid
+role
+worker.log
+
+# Proposal files (written to /home/deploy/.hermes/proposals/, not the repo)
+PROPOSAL.md
+COVER_LETTER.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
