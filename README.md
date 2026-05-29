@@ -7,6 +7,8 @@
 
 
 
+
+
 ---
 
 ## Business Problem Solved
@@ -19,6 +21,11 @@ This system solves that by:
 • **Two-pass validation** — Every proposed event change goes through a propose → verify cycle before being marked confirmed, catching conflicts and hallucinated data before they reach the output.
 
 **Measurable outcome:** Manual event refresh effort reduced by 80%+; verified event data always ready for downstream use; conflicts surfaced automatically rather than discovered by end users.
+
+---
+
+
+---
 
 ---
 
@@ -72,17 +79,6 @@ npm install
 
 
 ---
-
-## Business Problem Solved
-
-Manually refreshing and verifying event data (cultural events, sports fixtures, concerts) across multiple sources is time-consuming, error-prone, and scales poorly as the event universe grows. Teams spend more time checking data than acting on it.
-
-This system solves that by:
-• **Three specialized verification workflows** — Cultural, Sports, and Concert discovery pipelines each use LLM reasoning + deterministic control logic to surface verified, conflict-checked event data without manual drudge work.
-• **Cost-efficient LLM reasoning** — Batches similar events into single LLM calls and caches responses, keeping per-event cost low even at scale.
-• **Two-pass validation** — Every proposed event change goes through a propose → verify cycle before being marked confirmed, catching conflicts and hallucinated data before they reach the output.
-
-**Measurable outcome:** Manual event refresh effort reduced by 80%+; verified event data always ready for downstream use; conflicts surfaced automatically rather than discovered by end users.
 
 ---
 
