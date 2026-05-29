@@ -78,29 +78,7 @@ All decisions logged with full evidence chain: event_id, pass1_response, pass2_r
 - **Double-check** — quality via verification passes, not by adding more rules
 
 This is a lean automation system: a Python orchestration layer with strong LLM integration, not a traditional software platform.
-🎁 Included with this proposal:
-✅ Public PoC repo with working code + architecture spec
-✅ Async-first communication: clear updates via chat/email, no meeting overhead
-✅ 30 days of post-delivery support for questions and minor adjustments
 
-If this aligns with your needs, I can expand the PoC to full production delivery within the timeline above. Happy to answer any questions or share additional architecture diagrams.
-
-Best regards,
-Mongkolpoj Phanutaecha
-Principal Data Platform Architect | AI-Augmented Engineering Factory
-Bangkok, Thailand (GMT+7) | Open to Remote Contracts
-
-🎁 Included with this proposal:
-✅ Public PoC repo with working code + architecture spec
-✅ Async-first communication: clear updates via chat/email, no meeting overhead
-✅ 30 days of post-delivery support for questions and minor adjustments
-
-If this aligns with your needs, I can expand the PoC to full production delivery within the timeline above. Happy to answer any questions or share additional architecture diagrams.
-
-Best regards,
-Mongkolpoj Phanutaecha
-Principal Data Platform Architect | AI-Augmented Engineering Factory
-Bangkok, Thailand (GMT+7) | Open to Remote Contracts
 
 🎁 Included with this proposal:
 ✅ Public PoC repo with working code + architecture spec
